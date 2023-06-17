@@ -1,2 +1,3 @@
 # Fe-Deposition-Ocean-BGC-GRL
-scripts for generating figures and analyses for iron deposition study
+contains python scripts used for generating preindustrial control drift correction files, figures, and for conducting statistical analyses for iron deposition study 
+
